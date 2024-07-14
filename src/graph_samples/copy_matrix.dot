@@ -1,0 +1,7 @@
+digraph C {
+	a -> b [weight=5];
+	b -> c [weight=3];
+	b -> d [weight=9];
+	d -> f [weight=9];
+	f -> g [weight=7];
+}

@@ -1,0 +1,13 @@
+graph graphname {
+    a -- b [weight=7];
+    b -- c [weight=8];
+    a -- d [weight=5];
+    b -- d [weight=9];
+    b -- e [weight=7];
+    c -- e [weight=5];
+    d -- e [weight=15];
+    d -- f [weight=6];
+    e -- f [weight=8];
+    e -- g [weight=9];
+    f -- g [weight=11];
+}

@@ -1,0 +1,11 @@
+graph C {
+     a -- b [weight=7];
+     b -- c [weight=5];
+     c -- d [weight=11];
+     a -- e [weight=24];
+     b -- f [weight=12];
+     c -- f [weight=6];
+     e -- d [weight=8];
+     e -- f [weight=3];
+     d -- f [weight=9];
+}
