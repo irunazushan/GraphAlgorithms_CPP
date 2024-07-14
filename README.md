@@ -24,7 +24,9 @@ Implementation of the _s21_graph_algorithms.h_ library:
     + `SolveTravelingSalesmanProblem(Graph &graph)` — solving the traveling salesman's problem using the *ant colony algorithm*.
 
 Implementation of a console application for testing the functionality of the implemented s21_graph and s21_graph_algorithms libraries. 
+
 ![interface](misc/images/interface.PNG)
+
 * The console interface is provided the following functionality:
     1. Load the original graph from a file.
     2. Traverse the graph in breadth and print the result to the console.   
